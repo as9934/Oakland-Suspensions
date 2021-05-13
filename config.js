@@ -14,7 +14,7 @@ var config = {
             image: '',
             description: '',
             location: {
-                center: [-122.27, 37.8],
+                center: [-122.26, 37.78],
                 zoom: 11,
                 pitch: 0,
                 bearing: 0
@@ -24,14 +24,14 @@ var config = {
             callback: '',
             onChapterEnter: [
                 {
-                    layer: 'all-type-1415',
-                    opacity: 1
+                    layer: 'black-1415',
+                    opacity: 0
                 }
             ],
             onChapterExit: [
                 {
-                    layer: 'all-type-1415',
-                    opacity: 1
+                    layer: 'black-1415',
+                    opacity: 0
                 }
             ]
         },
@@ -43,7 +43,7 @@ var config = {
             image: '',
             description: '',
             location: {
-                center: [-122.27, 37.8],
+                center: [-122.26, 37.78],
                 zoom: 11,
                 pitch: 0,
                 bearing: 0
@@ -53,14 +53,14 @@ var config = {
             callback: '',
             onChapterEnter: [
                 {
-                    layer: 'all-type-1415',
-                    opacity: 1
+                    layer: 'white-1415',
+                    opacity: 0
                 }
             ],
             onChapterExit: [
                 {
-                    layer: 'all-type-1415',
-                    opacity: 1
+                    layer: 'white-1415',
+                    opacity: 0
                 }
             ]
         },
@@ -70,9 +70,9 @@ var config = {
             hidden: false,
             title: "But, except for a few outliers, things haven't changed much for most schools in the District.",
             image: '',
-            description: 'Blue dots represent schools with suspension rates below the 5-school-year median of 21.9%. Orange dots represent schools above it.',
+            description: 'Each dot represents a school in the district. The larger the dot the higher the suspension rate. Blue dots represent the suspnesion rate for White students. Orange dots represent the suspension rate for Black students.',
             location: {
-                center: [-122.27, 37.8],
+                center: [-122.26, 37.78],
                 zoom: 11,
                 pitch: 0,
                 bearing: 0
@@ -82,26 +82,26 @@ var config = {
             callback: '',
             onChapterEnter: [
                 {
-                    layer: 'all-type-1415',
-                    opacity: 1
+                    layer: 'black-1516',
+                    opacity: 0
                 }
             ],
             onChapterExit: [
                 {
-                    layer: 'all-type-1415',
-                    opacity: 1
+                    layer: 'black-1516',
+                    opacity: 0
                 }
             ]
         },
         {
-            id: 'Section 1',
+            id: 'Section 1-1',
             alignment: 'right',
             hidden: false,
             title: '2014-15',
             image: '',
             description: '',
             location: {
-                center: [-122.27, 37.8],
+                center: [-122.26, 37.78],
                 zoom: 12,
                 pitch: 0,
                 bearing: 0
@@ -111,26 +111,55 @@ var config = {
             callback: '',
             onChapterEnter: [
                 {
-                    layer: 'all-type-1415', 
+                    layer: 'white-1415', 
                     opacity: 1
                 }
             ],
             onChapterExit: [
                 {
-                    layer: 'all-type-1415',
+                    layer: 'white-1415',
                     opacity: 0
                 }
             ]
         },
         {
-            id: 'section-2',
+            id: 'Section 1-2',
+            alignment: 'right',
+            hidden: true,
+            title: '',
+            image: '',
+            description: '',
+            location: {
+                center: [-122.26, 37.78],
+                zoom: 12,
+                pitch: 0,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [
+                {
+                    layer: 'black-1415', 
+                    opacity: 1
+                }
+            ],
+            onChapterExit: [
+                {
+                    layer: 'black-1415',
+                    opacity: 0
+                }
+            ]
+        },
+        {
+            id: 'Section 2-1',
             alignment: 'right',
             hidden: false,
             title: '2015-16',
             image: '',
             description: '',
             location: {
-                center: [-122.27, 37.8],
+                center: [-122.26, 37.78],
                 zoom: 12,
                 pitch: 0,
                 bearing: 0
@@ -140,26 +169,55 @@ var config = {
             callback: '',
             onChapterEnter: [
                 {
-                    layer: 'all-type-1516',
+                    layer: 'white-1516',
                     opacity: 1
                 }
             ], 
             onChapterExit: [
                 {
-                    layer: 'all-type-1516',
+                    layer: 'white-1516',
                     opacity: 0
                 }
             ]
         },
         {
-            id: 'section-3',
+            id: 'Section 2-2',
+            alignment: 'right',
+            hidden: true,
+            title: '',
+            image: '',
+            description: '',
+            location: {
+                center: [-122.26, 37.78],
+                zoom: 12,
+                pitch: 0,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [
+                {
+                    layer: 'black-1516',
+                    opacity: 1
+                }
+            ], 
+            onChapterExit: [
+                {
+                    layer: 'black-1516',
+                    opacity: 0
+                }
+            ]
+        },
+        {
+            id: 'Section 3-1',
             alignment: 'right',
             hidden: false,
             title: '2016-17',
             image: '',
             description: '',
             location: {
-                center: [-122.27, 37.8],
+                center: [-122.26, 37.78],
                 zoom: 12,
                 pitch: 0,
                 bearing: 0
@@ -169,26 +227,55 @@ var config = {
             callback: '',
             onChapterEnter: [
                 {
-                    layer: 'all-type-1617',
+                    layer: 'white-1617',
                     opacity: 1
                 }
             ], 
             onChapterExit: [
                 {
-                    layer: 'all-type-1617',
+                    layer: 'white-1617',
                     opacity: 0
                 }
             ]
         },
         {
-            id: 'section-4',
+            id: 'Section 3-2',
+            alignment: 'right',
+            hidden: true,
+            title: '',
+            image: '',
+            description: '',
+            location: {
+                center: [-122.26, 37.78],
+                zoom: 12,
+                pitch: 0,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [
+                {
+                    layer: 'black-1617',
+                    opacity: 1
+                }
+            ], 
+            onChapterExit: [
+                {
+                    layer: 'black-1617',
+                    opacity: 0
+                }
+            ]
+        },
+        {
+            id: 'Section 4-1',
             alignment: 'right',
             hidden: false,
             title: '2017-18',
             image: '',
             description: '',
             location: {
-                center: [-122.27, 37.8],
+                center: [-122.26, 37.78],
                 zoom: 12,
                 pitch: 0,
                 bearing: 0
@@ -198,26 +285,55 @@ var config = {
             callback: '',
             onChapterEnter: [
                 {
-                    layer: 'all-type-1718',
+                    layer: 'white-1718',
                     opacity: 1
                 }
             ], 
             onChapterExit: [
                 {
-                    layer: 'all-type-1718',
+                    layer: 'white-1718',
                     opacity: 0
                 }
             ]
         },
         {
-            id: 'section-4',
+            id: 'Section 4-2',
+            alignment: 'right',
+            hidden: true,
+            title: '',
+            image: '',
+            description: '',
+            location: {
+                center: [-122.26, 37.78],
+                zoom: 12,
+                pitch: 0,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [
+                {
+                    layer: 'black-1718',
+                    opacity: 1
+                }
+            ], 
+            onChapterExit: [
+                {
+                    layer: 'black-1718',
+                    opacity: 0
+                }
+            ]
+        },
+        {
+            id: 'Section 5-1',
             alignment: 'right',
             hidden: false,
             title: '2018-19',
             image: '',
             description: '',
             location: {
-                center: [-122.27, 37.8],
+                center: [-122.26, 37.78],
                 zoom: 12,
                 pitch: 0,
                 bearing: 0
@@ -227,13 +343,42 @@ var config = {
             callback: '',
             onChapterEnter: [
                 {
-                    layer: 'all-type-1819',
+                    layer: 'white-1819',
                     opacity: 1
                 }
             ], 
             onChapterExit: [
                 {
-                    layer: 'all-type-1819', 
+                    layer: 'white-1819',
+                    opacity: 0
+                }
+            ]
+        },
+        {
+            id: 'Section 5-2',
+            alignment: 'right',
+            hidden: true,
+            title: '',
+            image: '',
+            description: '',
+            location: {
+                center: [-122.26, 37.78],
+                zoom: 12,
+                pitch: 0,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [
+                {
+                    layer: 'black-1819',
+                    opacity: 1
+                }
+            ], 
+            onChapterExit: [
+                {
+                    layer: 'black-1819',
                     opacity: 0
                 }
             ]
@@ -246,7 +391,7 @@ var config = {
             image: '',
             description: '',
             location: {
-                center: [-122.27, 37.8],
+                center: [-122.26, 37.78],
                 zoom: 11,
                 pitch: 0,
                 bearing: 0
@@ -256,17 +401,16 @@ var config = {
             callback: '',
             onChapterEnter: [
                 {
-                    // layer: 'all-type-1415',
+                    // layer: 'white-1415',
                     // opacity: 1
                 }
             ],
             onChapterExit: [
                 {
-                //     layer: 'all-type-1415',
+                //     layer: 'white-1415',
                 //     opacity: 1
                 }
             ]
         }
     ]
-};
-        
+};       
