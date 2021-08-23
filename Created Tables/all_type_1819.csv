@@ -1,0 +1,122 @@
+Name,school_year,students_suspended,total_enrollment,suspended_rate,type,grades,Address,Latitude,Longitude
+ACORN Woodland Elementary,2018-19,0.0,297,0.0,public,K-5,"1025 81st Ave, Oakland, CA 94621, USA",37.753182,-122.185778
+ARISE High,2018-19,16.0,334,0.0479041916167665,charter,9th - 12th,"3301 E 12th St # 205, Oakland, CA 94601, USA",37.77567,-122.224682
+Achieve Academy,2018-19,10.0,678,0.0147492625368732,charter,TK-5,"1700 28th Ave, Oakland, CA 94601, USA",37.782342,-122.226161
+Allendale Elementary,2018-19,3.0,465,0.00645161290322581,public,K-5,"3670 Penniman Ave, Oakland, CA 94619, USA",37.788656,-122.205092
+Alliance Academy,2018-19,29.0,345,0.0840579710144927,public,6th - 8th,"1800 98th Ave, Oakland, CA 94603, USA",37.746049,-122.165175
+American Indian Public Charter,2018-19,6.0,170,0.0352941176470588,charter,5th - 8th,"3637 Magee Ave, Oakland, CA 94619, USA",37.793458,-122.199683
+American Indian Public Charter II,2018-19,29.0,828,0.035024154589372,charter,K-8,"171 12th St, Oakland, CA 94607, USA",37.800101,-122.265497
+American Indian Public High,2018-19,22.0,428,0.0514018691588785,charter,9th - 12th,"3637 Magee Ave, Oakland, CA 94619, USA",37.793458,-122.199683
+Aspire Berkley Maynard Academy,2018-19,21.0,607,0.0345963756177924,charter,K-8,"6200 San Pablo Ave, Oakland, CA 94608, USA",37.844916,-122.284699
+Aspire College Academy,2018-19,6.0,291,0.0206185567010309,charter,K-5,"8030 Atherton St, Oakland, CA 94605, USA",37.761558,-122.170949
+Aspire ERES Academy,2018-19,7.0,256,0.02734375,charter,K-8,"1936 Courtland Ave, Oakland, CA 94601, USA",37.775569,-122.21229
+Aspire Golden State College Preparatory Academy,2018-19,74.0,628,0.117834394904459,charter,6th - 12th,"1009 66th Ave, Oakland, CA 94621, USA",37.759694,-122.198867
+Aspire Lionel Wilson College Preparatory Academy,2018-19,81.0,547,0.148080438756856,charter,6th - 12th,"400 105th Ave, Oakland, CA 94603, USA",37.729428,-122.179864
+Aspire Monarch Academy,2018-19,6.0,430,0.013953488372093,charter,K-5,"1445 101st Ave, Oakland, CA 94603, USA",37.74278,-122.167712
+Aspire Triumph Technology Academy,2018-19,18.0,307,0.0586319218241042,charter,K-5,"3200 62nd Ave, Oakland, CA 94605, USA",37.774237,-122.182473
+Bay Area Technology,2018-19,35.0,329,0.106382978723404,charter,6th - 12th,"8251 Fontaine St, Oakland, CA 94605, USA",37.766251,-122.154398
+Bella Vista Elementary,2018-19,3.0,523,0.00573613766730402,public,K-5,"1025 E 28th St, Oakland, CA 94610, USA",37.80002,-122.237596
+Bret Harte Middle,2018-19,75.0,780,0.0961538461538462,public,6th - 9th,"3700 Coolidge Ave, Oakland, CA 94602, USA",37.799696,-122.207414
+Bridges Academy,2018-19,3.0,492,0.00609756097560976,public,K-5,"1325 53rd Ave, Oakland, CA 94601, USA",37.767511,-122.207223
+Brookfield Elementary,2018-19,4.0,289,0.013840830449827,public,K-5,"401 Jones Ave, Oakland, CA 94603, USA",37.735949,-122.188626
+Burckhalter Elementary,2018-19,1.0,287,0.00348432055749129,public,K-5,"3994 Burckhalter Ave, Oakland, CA 94605, USA",37.775814,-122.166271
+Carl B. Munck Elementary,2018-19,0.0,248,0.0,public,K-5,"11900 Campus Dr, Oakland, CA 94619, USA",37.79522,-122.174062
+Castlemont High,2018-19,46.0,1039,0.0442733397497594,public,9th - 12th,"8601 MacArthur Blvd, Oakland, CA 94605, USA",37.758308,-122.163277
+Chabot Elementary,2018-19,0.0,585,0.0,public,K-5,"6686 Chabot Rd, Oakland, CA 94618, USA",37.850071,-122.242799
+Civicorps Corpsmember Academy,2018-19,0.0,146,0.0,charter,9th - 12th,"101 Myrtle St, Oakland, CA 94607, USA",37.79949,-122.285775
+Claremont Middle,2018-19,19.0,503,0.0377733598409543,public,6th - 8th,"5750 College Ave, Oakland, CA 94618, USA",37.846041,-122.252022
+Cleveland Elementary,2018-19,0.0,418,0.0,public,K-5,"745 Cleveland St, Oakland, CA 94606, USA",37.804272,-122.244063
+Coliseum College Prep Academy,2018-19,15.0,505,0.0297029702970297,public,6th - 12th,"1390 66th Ave, Oakland, CA 94621, USA",37.761869,-122.193566
+Community Day High,2018-19,8.0,39,0.205128205128205,public,9th - 12th,"4917 Mountain Blvd, Oakland, CA 94619, USA",37.787647,-122.177667
+Community Day Middle,2018-19,0.0,19,0.0,public,6th - 8th,"4917 Mountain Blvd, Oakland, CA 94619, USA",37.787647,-122.177667
+Community United Elementary,2018-19,6.0,390,0.0153846153846154,public,K-5,"6701 International Blvd, Oakland, CA 94621, USA",37.760501,-122.193139
+Crocker Highlands Elementary,2018-19,1.0,480,0.00208333333333333,public,K-5,"525 Midcrest Rd, Oakland, CA 94610, USA",37.811103,-122.227587
+Dewey Academy,2018-19,10.0,376,0.0265957446808511,public,9th - 12th,"1111 2nd Ave, Oakland, CA 94606, USA",37.796761,-122.258296
+Downtown Charter Academy,2018-19,2.0,309,0.00647249190938511,charter,6th - 8th,"2000 Dennison St, Oakland, CA 94606, USA",37.779565,-122.241663
+East Bay Innovation Academy,2018-19,29.0,577,0.0502599653379549,charter,6th - 12th,"3800 Mountain Blvd, Oakland, CA 94619, USA",37.800656,-122.182919
+East Oakland Pride Elementary,2018-19,3.0,381,0.0078740157480315,public,K-5,"8000 Birch St, Oakland, CA 94621, USA",37.759203,-122.174555
+Edna Brewer Middle,2018-19,20.0,819,0.0244200244200244,public,6th - 8th,"3748 13th Ave, Oakland, CA 94610, USA",37.803527,-122.229126
+Elmhurst United Middle,2018-19,39.0,418,0.0933014354066986,public,6th - 8th,"1800 98th Ave, Oakland, CA 94603, USA",37.746049,-122.165175
+Emerson Elementary,2018-19,6.0,353,0.0169971671388102,public,K-5,"4803 Lawton Ave, Oakland, CA 94609, USA",37.834683,-122.257399
+EnCompass Academy Elementary,2018-19,2.0,373,0.00536193029490617,public,K-5,"1025 81st Ave, Oakland, CA 94621, USA",37.753182,-122.185778
+Epic Charter,2018-19,27.0,330,0.0818181818181818,charter,6th - 8th,"1045 Derby Ave, Oakland, CA 94601, USA",37.777039,-122.229747
+Esperanza Elementary,2018-19,1.0,374,0.00267379679144385,public,K-5,"10315 E St, Oakland, CA 94603, USA",37.737492,-122.173675
+Francophone Charter School of Oakland,2018-19,0.0,229,0.0,charter,K-8,"9736 Lawlor St, Oakland, CA 94605, USA",37.751637,-122.157341
+Franklin Elementary,2018-19,3.0,729,0.00411522633744856,public,K-5,"915 Foothill Blvd, Oakland, CA 94606, USA",37.793433,-122.248715
+Fred T. Korematsu Discovery Academy,2018-19,5.0,326,0.0153374233128834,public,K-5,"10315 E St, Oakland, CA 94603, USA",37.737492,-122.173675
+Fremont High,2018-19,73.0,870,0.0839080459770115,public,9th - 12th,"4610 Foothill Blvd, Oakland, CA 94601, USA",37.7744,-122.209724
+Frick Middle,2018-19,31.0,247,0.125506072874494,public,6th - 8th,"2845 64th Ave, Oakland, CA 94605, USA",37.771098,-122.184307
+Fruitvale Elementary,2018-19,6.0,379,0.0158311345646438,public,K-5,"3200 Boston Ave, Oakland, CA 94602, USA",37.796182,-122.214102
+Futures Elementary,2018-19,12.0,361,0.0332409972299169,public,K-5,"6701 International Blvd, Oakland, CA 94621, USA",37.760501,-122.193139
+Garfield Elementary,2018-19,8.0,747,0.0107095046854083,public,K-5,"1640 22nd Ave, Oakland, CA 94606, USA",37.786599,-122.235724
+Gateway to College at Laney College,2018-19,0.0,118,0.0,public,9th - 12th,"900 Fallon St, Oakland, CA 94607, USA",37.796148,-122.261338
+Glenview Elementary,2018-19,1.0,478,0.00209205020920502,public,K-5,"4215 La Cresta Ave, Oakland, CA 94602, USA",37.805891,-122.219759
+Global Family,2018-19,5.0,489,0.0102249488752556,public,K-5,"2035 40th Ave, Oakland, CA 94601, USA",37.779417,-122.213294
+Grass Valley Elementary,2018-19,3.0,319,0.00940438871473354,public,K-5,"4720 Dunkirk Ave, Oakland, CA 94605, USA",37.753027,-122.124971
+Greenleaf Elementary,2018-19,22.0,665,0.0330827067669173,public,K-8,"6328 E 17th St, Oakland, CA 94621, USA",37.764772,-122.194576
+Hillcrest Elementary,2018-19,4.0,392,0.0102040816326531,public,K-8,"30 Marguerite Dr, Oakland, CA 94618, USA",37.840576,-122.232409
+Home and Hospital Program,2018-19,0.0,33,0.0,public,K-12,"Oakland, CA, USA",37.786027,-122.223779
+Hoover Elementary,2018-19,8.0,288,0.0277777777777778,public,K-5,"890 Brockhurst St, Oakland, CA 94608, USA",37.823272,-122.27426
+Horace Mann Elementary,2018-19,12.0,348,0.0344827586206897,public,K-5,"5222 Ygnacio Ave, Oakland, CA 94601, USA",37.773649,-122.202441
+Howard Elementary,2018-19,0.0,244,0.0,public,K-5,"8755 Fontaine St, Oakland, CA 94605, USA",37.767932,-122.153988
+"Independent Study, Sojourner Truth",2018-19,0.0,250,0.0,public,K-12,"8251 Fontaine St, Oakland, CA 94605, USA",37.766251,-122.154398
+International Community,2018-19,4.0,318,0.0125786163522013,public,K-5,"2825 International Blvd, Oakland, CA 94601, USA",37.779451,-122.230805
+Joaquin Miller Elementary,2018-19,3.0,460,0.00652173913043478,public,K-5,"5525 Ascot Dr, Oakland, CA 94611, USA",37.818864,-122.201594
+KIPP Bridge Academy,2018-19,57.0,542,0.105166051660517,charter,K-8,"1700 Market St, Oakland, CA 94607, USA",37.810173,-122.279092
+Kaiser Elementary,2018-19,5.0,294,0.0170068027210884,public,K-5,"25 S Hill Ct, Oakland, CA 94618, USA",37.852708,-122.231227
+LIFE Academy,2018-19,9.0,483,0.0186335403726708,public,6th - 12th,"2101 35th Ave, Oakland, CA 94601, USA",37.78438,-122.216797
+LPS Oakland R & D Campus,2018-19,39.0,505,0.0772277227722772,charter,9th - 12th,"8601 MacArthur Blvd, Oakland, CA 94605, USA",37.758308,-122.163277
+La Escuelita Elementary,2018-19,7.0,468,0.014957264957265,public,K-8,"1050 2nd Ave, Oakland, CA 94606, USA",37.796177,-122.258637
+Laurel Elementary,2018-19,25.0,535,0.0467289719626168,public,K-5,"3750 Brown Ave, Oakland, CA 94619, USA",37.792805,-122.196211
+Learning Without Limits,2018-19,1.0,433,0.0023094688221709,charter,K-5,"2035 40th Ave, Oakland, CA 94601, USA",37.779417,-122.213294
+Lighthouse Community Charter,2018-19,60.0,516,0.116279069767442,charter,K-8,"444 Hegenberger Rd, Oakland, CA 94621, USA",37.736032,-122.196473
+Lighthouse Community Charter High,2018-19,27.0,285,0.0947368421052632,charter,9th - 12th,"444 Hegenberger Rd, Oakland, CA 94621, USA",37.736032,-122.196473
+Lincoln Elementary,2018-19,13.0,765,0.0169934640522876,public,K-5,"225 11th St, Oakland, CA 94607, USA",37.800023,-122.267151
+Lodestar: A Lighthouse Community Charter Public,2018-19,33.0,560,0.0589285714285714,charter,K-12,"701 105th Ave, Oakland, CA 94603, USA",37.734288,-122.178492
+MLK / Lafayette Elementary,2018-19,7.0,96,0.0729166666666667,public,2nd - 5th,"991 14th St, Oakland, CA 94607, USA",37.808747,-122.28281
+Madison Park Academy 6-12,2018-19,118.0,819,0.144078144078144,public,6th - 12th,"400 Capistrano Dr, Oakland, CA 94603, USA",37.727683,-122.179249
+Madison Park Academy TK-5,2018-19,0.0,317,0.0,public,TK-5,"400 Capistrano Dr, Oakland, CA 94603, USA",37.727683,-122.179249
+Manzanita Community,2018-19,9.0,463,0.019438444924406,public,K-5,"2409 E 27th St, Oakland, CA 94601, USA",37.791721,-122.224852
+Manzanita SEED Elementary,2018-19,4.0,449,0.0089086859688196,public,K-5,"2409 E 27th St, Oakland, CA 94601, USA",37.791721,-122.224852
+Markham Elementary,2018-19,16.0,384,0.0416666666666667,public,K-5,"7220 Krause Ave, Oakland, CA 94605, USA",37.765511,-122.178637
+"Martin Luther King, Jr. Elementary",2018-19,8.0,385,0.0207792207792208,public,PK-3,"960 10th St, Oakland, CA 94607, USA",37.806314,-122.282771
+McClymonds High,2018-19,58.0,434,0.133640552995392,public,9th - 12th,"2607 Myrtle St, Oakland, CA 94607, USA",37.817863,-122.278776
+Melrose Leadership Academy,2018-19,6.0,587,0.010221465076661,public,PK-8,"4730 Fleming Ave, Oakland, CA 94619, USA",37.780414,-122.197891
+MetWest High,2018-19,1.0,167,0.00598802395209581,public,9th - 12th,"314 E 10th St, Oakland, CA 94606, USA",37.795235,-122.258072
+Montclair Elementary,2018-19,2.0,662,0.00302114803625378,public,K-5,"1757 Mountain Blvd, Oakland, CA 94611, USA",37.830269,-122.211867
+Montera Middle,2018-19,58.0,760,0.0763157894736842,public,6th - 8th,"5555 Ascot Dr, Oakland, CA 94611, USA",37.819275,-122.201776
+New Highland Academy,2018-19,6.0,380,0.0157894736842105,public,K-5,"8521 A St, Oakland, CA 94621, USA",37.751703,-122.179513
+"Nonpublic, Nonsectarian Schools",2018-19,0.0,201,0.0,,,"Oakland, CA, USA",37.786027,-122.223779
+North Oakland Community Charter,2018-19,12,192,0.0625,charter,K-8,"1000 42nd St, Oakland, CA 94608, USA",37.833202,-122.27655
+Oakland Charter Academy,2018-19,17.0,254,0.0669291338582677,charter,6th - 8th,"1899-1801 42nd Ave, Oakland, CA 94601, USA",37.775666,-122.213042
+Oakland Charter High,2018-19,24.0,473,0.0507399577167019,charter,9th - 12th,"2433 Coolidge Ave, Oakland, CA 94601, USA",37.786321,-122.21947
+Oakland High,2018-19,81.0,1732,0.0467667436489607,public,9th - 12th,"1023 MacArthur Blvd, Oakland, CA 94610, USA",37.805332,-122.237079
+Oakland International High,2018-19,13.0,481,0.027027027027027,public,9th - 12th,"4521 Webster St, Oakland, CA 94609, USA",37.833391,-122.260261
+"Oakland Military Institute, College Preparatory Academy",2018-19,101.0,771,0.130998702983139,public,6th - 12th,"3877 Lusk St, Oakland, CA 94608, USA",37.829443,-122.272498
+Oakland SOL (School of Language) Dual Language Middle,2018-19,1.0,129,0.00775193798449612,public,6th - 8th,"1180 70th Ave, Oakland, CA 94621, USA",37.759075,-122.190746
+Oakland School for the Arts,2018-19,13.0,763,0.0170380078636959,charter,6th - 12th,"530 18th St, Oakland, CA 94612, USA",37.807889,-122.27107
+Oakland Technical High,2018-19,52.0,2079,0.025012025012025,public,9th - 12th,"4351 Broadway, Oakland, CA 94611, USA",37.832271,-122.255457
+Oakland Unity High,2018-19,13.0,365,0.0356164383561644,charter,9th - 12th,"6038 Brann St, Oakland, CA 94605, USA",37.773505,-122.184748
+Parker Elementary,2018-19,26.0,395,0.0658227848101266,public,K-8,"7929 Ney Ave, Oakland, CA 94605, USA",37.765381,-122.165523
+Peralta Elementary,2018-19,4.0,339,0.0117994100294985,public,K-5,"460 63rd St, Oakland, CA 94609, USA",37.849687,-122.258845
+Piedmont Avenue Elementary,2018-19,0.0,374,0.0,public,K-5,"4314 Piedmont Ave, Oakland, CA 94611, USA",37.829046,-122.248798
+ROOTS International Academy,2018-19,36.0,309,0.116504854368932,public,6th - 8th,"1390 66th Ave, Oakland, CA 94621, USA",37.761869,-122.193566
+Ralph J. Bunche High,2018-19,4.0,190,0.0210526315789474,public,9th - 12th,"991 14th St Building A, Oakland, CA 94607, USA",37.808747,-122.28281
+Reach Academy,2018-19,8.0,434,0.0184331797235023,public,K-5,"9860 Sunnyside St, Oakland, CA 94603, USA",37.746575,-122.16177
+Redwood Heights Elementary,2018-19,0.0,387,0.0,public,K-5,"4401 39th Ave, Oakland, CA 94619, USA",37.796943,-122.186618
+Rise Community,2018-19,1.0,259,0.00386100386100386,public,K-5,"85th Ave, Oakland, CA 94621, USA",37.750388,-122.184096
+Roosevelt Middle,2018-19,19.0,621,0.0305958132045089,public,6th - 8th,"1926 E 19th St, Oakland, CA 94606, USA",37.789719,-122.237525
+Roses in Concrete,2018-19,12.0,413,0.0290556900726392,charter,K-8,"4551 Steele St, Oakland, CA 94619, USA",37.787688,-122.187875
+Rudsdale Continuation,2018-19,4.0,443,0.0090293453724605,public,9th - 12th,"8251 Fontaine St, Oakland, CA 94605, USA",37.766251,-122.154398
+Sankofa Academy,2018-19,33.0,219,0.150684931506849,public,PK-5,"581 61st St, Oakland, CA 94609, USA",37.847028,-122.26434
+Sequoia Elementary,2018-19,0.0,454,0.0,public,K-5,"3730 Lincoln Ave, Oakland, CA 94602, USA",37.802131,-122.211605
+Skyline High,2018-19,79.0,1751,0.0451170759565962,public,K-12,"12250 Skyline Blvd, Oakland, CA 94619, USA",37.798377,-122.16148
+Street Academy (Alternative),2018-19,0.0,124,0.0,public,9th - 12th,"417 29th St, Oakland, CA 94609, USA",37.817395,-122.265601
+Think College Now,2018-19,13.0,331,0.0392749244712991,public,K-5,"2825 International Blvd, Oakland, CA 94601, USA",37.779451,-122.230805
+Thornhill Elementary,2018-19,3.0,420,0.00714285714285714,public,K-5,"5880 Thornhill Dr, Oakland, CA 94611, USA",37.836251,-122.211458
+United for Success Academy,2018-19,61.0,402,0.151741293532338,public,6th - 8th,"2101 35th Ave, Oakland, CA 94601, USA",37.78438,-122.216797
+Urban Promise Academy,2018-19,32.0,390,0.0820512820512821,public,6th - 8th,"3031 E 18th St, Oakland, CA 94601, USA",37.781981,-122.224228
+Vincent Academy,2018-19,15.0,260,0.0576923076923077,charter,K-5,"2501 Chestnut St, Oakland, CA 94607, USA",37.818122,-122.282197
+West Oakland Middle,2018-19,55.0,222,0.247747747747748,public,6th - 8th,"991 14th St, Oakland, CA 94607, USA",37.808747,-122.28281
+Westlake Middle,2018-19,70.0,374,0.18716577540107,public,6th - 8th,"2629 Harrison St, Oakland, CA 94612, USA",37.814674,-122.261241
+Young Adult Program,2018-19,0.0,168,0.0,public,,"Oakland, CA, USA",37.786027,-122.223779
