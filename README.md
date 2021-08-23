@@ -1,4 +1,5 @@
-# suspensions_viz
+# Good Intentions, Uncertain Results: An examination of Oakland Unified School District’s suspension rates, racial disparities.
+
 
 There is a long-documented history of racial discrimination in school discipline. Black kids and in particular black boys are suspended at much higher rates than their White classmates. This disparity not only removes children from instructional time it also has numerous other pernicious effects including lower college attendance and academic performance. In fact, one study from University of Kentucky researchers concluded that a fifth of the Black-White achievement gap could be attributed to suspension disparities.
 
