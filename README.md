@@ -10,9 +10,7 @@ Many would suspect that Oakland Unified School District would buck this trend. T
 
 But despite historic efforts and millions of dollars invested, the suspension rate and racial disparity in suspensions has stayed basically flat in the past five school years. 
 
-This project visualizes the disparity between suspensions of White and Black children in Oakland over a five school year period, from 2015 to 2019. 
-
-I wanted to create a dynamic, interactive and attention-grabbing visualization to introduce this issue to an audience of news readers. The intent for this visualization is to serve as a supplement for an in-depth investigative story on the issue of suspensions in Oakland schools, which could be pitched to major regional and national journalistic publications. 
+This project visualizes the disparity between suspensions of White and Black children in Oakland over a five school year period, from 2015 to 2019.  
 
 A variety of methods were used to obtain, clean, analyze and visualize the data necessary for this project. 
 
